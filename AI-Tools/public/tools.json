@@ -1,0 +1,110 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "Advanced AI chatbot for text generation and conversation",
+    "category": "Chat",
+    "url": "https://chat.openai.com",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "Claude AI",
+    "description": "Constitutional AI assistant for helpful tasks",
+    "category": "Chat",
+    "url": "https://claude.ai",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "AI image generation from text descriptions",
+    "category": "Image",
+    "url": "https://openai.com/dall-e-3",
+    "isFree": false,
+    "isNew": true,
+    "isPopular": true
+  },
+  {
+    "name": "Midjourney",
+    "description": "High-quality AI image creation tool",
+    "category": "Image",
+    "url": "https://www.midjourney.com",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "Synthesia",
+    "description": "AI video generation from text",
+    "category": "Video",
+    "url": "https://www.synthesia.io",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "AI-powered code completion and generation",
+    "category": "Code",
+    "url": "https://github.com/features/copilot",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "Codeium",
+    "description": "Free AI code completion extension",
+    "category": "Code",
+    "url": "https://codeium.com",
+    "isFree": true,
+    "isNew": false,
+    "isPopular": false
+  },
+  {
+    "name": "Runway ML",
+    "description": "AI tools for video and image editing",
+    "category": "Video",
+    "url": "https://runwayml.com",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "Descript",
+    "description": "AI-powered audio and video editing",
+    "category": "Audio",
+    "url": "https://www.descript.com",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "Murf AI",
+    "description": "Text-to-speech voice generation",
+    "category": "Audio",
+    "url": "https://murf.ai",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": false
+  },
+  {
+    "name": "Notion AI",
+    "description": "AI writing assistant integrated with Notion",
+    "category": "Productivity",
+    "url": "https://www.notion.so/product/ai",
+    "isFree": false,
+    "isNew": false,
+    "isPopular": true
+  },
+  {
+    "name": "Otter.ai",
+    "description": "AI meeting notes and transcription",
+    "category": "Productivity",
+    "url": "https://otter.ai",
+    "isFree": true,
+    "isNew": false,
+    "isPopular": true
+  }
+]
