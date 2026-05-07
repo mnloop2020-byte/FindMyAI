@@ -16,7 +16,7 @@ export default function CategoryFilter({ category, onCategory }: CategoryFilterP
           // key means that each button will have a unique identifier based on the category name, 
           // which helps React efficiently update the UI when the list changes.
           className={category === cat ? "cat-btn active" : "cat-btn"}
-          
+
           onClick={() => onCategory(cat)}
         >
           {cat}
